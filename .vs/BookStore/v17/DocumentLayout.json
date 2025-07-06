@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BookStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABBFBE5-BED4-40FE-A5B5-0DB834B76EED}|BookShoppingCartMvcUI\\BookShoppingCartMvcUI.csproj|d:\\bookstore\\bookshoppingcartmvcui\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{9ABBFBE5-BED4-40FE-A5B5-0DB834B76EED}|BookShoppingCartMvcUI\\BookShoppingCartMvcUI.csproj|solutionrelative:bookshoppingcartmvcui\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\BookStore\\BookShoppingCartMvcUI\\README.md",
+              "RelativeDocumentMoniker": "BookShoppingCartMvcUI\\README.md",
+              "ToolTip": "D:\\BookStore\\BookShoppingCartMvcUI\\README.md",
+              "RelativeToolTip": "BookShoppingCartMvcUI\\README.md",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA8wCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-07-06T13:57:07.104Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

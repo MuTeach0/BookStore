@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BookStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABBFBE5-BED4-40FE-A5B5-0DB834B76EED}|BookShoppingCartMvcUI\\BookShoppingCartMvcUI.csproj|d:\\bookstore\\bookshoppingcartmvcui\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABBFBE5-BED4-40FE-A5B5-0DB834B76EED}|BookShoppingCartMvcUI\\BookShoppingCartMvcUI.csproj|solutionrelative:bookshoppingcartmvcui\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "D:\\BookStore\\BookShoppingCartMvcUI\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "BookShoppingCartMvcUI\\Controllers\\ReportsController.cs",
+              "ToolTip": "D:\\BookStore\\BookShoppingCartMvcUI\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "BookShoppingCartMvcUI\\Controllers\\ReportsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T13:42:08.303Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
